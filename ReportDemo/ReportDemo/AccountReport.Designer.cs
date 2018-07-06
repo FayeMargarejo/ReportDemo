@@ -1,6 +1,6 @@
 ﻿namespace ReportDemo
 {
-    partial class Form1
+    partial class AccountReport
     {
         /// <summary>
         /// Required designer variable.

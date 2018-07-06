@@ -12,9 +12,9 @@ using Dapper;
 
 namespace ReportDemo
 {
-    public partial class Form1 : Form
+    public partial class AccountReport : Form
     {
-        public Form1()
+        public AccountReport()
         {
             InitializeComponent();
         }
